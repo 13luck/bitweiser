@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+coverage
+node_modules
+*.log
+example.html
+coverage
